@@ -7,7 +7,7 @@ Summary:	A pytest plugin for managing processes across test runs
 Summary(pl.UTF-8):	Wtyczka pytesta do zarządzania procesami między uruchomieniami testów
 Name:		python3-pytest-xprocess
 Version:	0.23.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-xprocess/
